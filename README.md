@@ -1,4 +1,9 @@
 # Synops Programmering årsprøve
+
+<p> Benjamin Testholm </p> 
+<p> programmering </p>
+<p> årsprøve </p> 
+
 https://benner081199.github.io/Synops-Programmering-rspr-ve-/ 
 
 Til min årsprøve i programmering, så vil jeg gerne snakke om API´er og hvad det indeholder. Jeg bruger, som eksempel Bored-API
